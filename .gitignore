@@ -8,6 +8,7 @@ data/
 solr/
 files/
 .coverage
+.idea
 */_build/
 htmlcov/
 public/
